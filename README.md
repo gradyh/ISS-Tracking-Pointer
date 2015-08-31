@@ -1,7 +1,7 @@
 # ISS-Tracking-Pointer
 ISS Orbit Tracking Pointer
 
-See YouTube video linked below for more information about this project.
+See YouTube video linked below for more information about this project. The code compiles using mbed on the Nucleo F401RE development board.
 
 
 <a href="https://www.youtube.com/watch?v=sIE0mcOGnms" target="_blank"><img src="http://img.youtube.com/vi/sIE0mcOGnms/0.jpg" 
